@@ -5,7 +5,7 @@ footer {
   padding: 10px 20px;
   background-color: #333;
   color: white;
-  position: absolute; /* Makes the footer stick to the bottom */
+  position: absolute; 
   bottom: 0;
   left: 0;
   right: 0;
